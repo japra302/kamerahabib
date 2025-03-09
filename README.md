@@ -4,7 +4,7 @@
 
 # 📸 Kamera (Kini dengan Filter Carousel!)  
 
-Aplikasi Flutter sederhana yang memungkinkan kamu mengambil gambar langsung dari kamera, menampilkan hasilnya, dan menerapkan filter sebelum menyimpan! Mendukung **Android, iOS, dan Web**.  
+Aplikasi Flutter sederhana yang memungkinkan kamu mengambil gambar langsung dari kamera, menampilkan hasilnya, dan menerapkan filter sebelum menyimpan! Mendukung **Android.
 
 ---
 
@@ -12,11 +12,7 @@ Aplikasi Flutter sederhana yang memungkinkan kamu mengambil gambar langsung dari
 ✅ **Ambil Gambar** langsung dari kamera perangkat  
 ✅ **Pratinjau Hasil Foto** 
 ✅ **Filter Foto** dengan efek keren sebelum menyimpan    
-✅ **Bagikan ke Media Sosial** dengan sekali klik (share_plus)  
-✅ **Dukungan Multi-Platform**: Android, iOS, dan Web  
-✅ **Loading Indikator** saat kamera belum siap  
-✅ **Error Handling** jika kamera gagal diinisialisasi  
-✅ **Mode Kamera Depan & Belakang**  
+✅ **Bagikan ke Media Sosial** 
 
 ---
 
