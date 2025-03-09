@@ -1,4 +1,4 @@
-Berikut versi yang lebih menarik dan engaging:  
+
 
 ---
 
