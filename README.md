@@ -30,7 +30,6 @@ path: ^1.9.0
 ---
 
 ## 🎯 Rencana Update Berikutnya  
-☑️ **Rekam Video** langsung dari aplikasi  
 ☑️ **UI Lebih Interaktif** dengan animasi smooth  
 
 🔥 Ayo coba sekarang dan abadikan momen terbaikmu dengan efek filter yang keren! 🚀
