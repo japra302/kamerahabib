@@ -6,8 +6,7 @@
 
 Aplikasi Flutter sederhana yang memungkinkan kamu mengambil gambar langsung dari kamera, menampilkan hasilnya, dan menerapkan filter sebelum menyimpan! Mendukung **Android.
 
-![Gambar Lain] (https://github.com/japra302/kamerahabib/blob/main/kamera.png)
-
+![Gambar Lain](https://github.com/japra302/kamerahabib/blob/main/kamera.png)
 ---
 
 ## ✨ Fitur Unggulan  
